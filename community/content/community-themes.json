@@ -393,5 +393,11 @@
   "backgroundColor": "oklch(98.0% 0.004 90.0 / 1)",
   "mainColor": "oklch(55.0% 0.035 250.0 / 1)",
   "secondaryColor": "oklch(70.0% 0.015 90.0 / 1)"
+},
+  {
+  "id": "daruma-red",
+  "backgroundColor": "oklch(20.0% 0.045 20.0 / 1)",
+  "mainColor": "oklch(58.0% 0.225 28.0 / 1)",
+  "secondaryColor": "oklch(92.0% 0.045 90.0 / 1)"
 }
 ]
